@@ -1,0 +1,41 @@
+html, body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 100%;
+    background-color: #F8E514;
+	
+}
+
+.w3-panel{
+	
+	background-color: #FFF;
+}
+ 
+ h1{
+	 font-family: "Hammersmith One";
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+	 text-align: center;
+	 
+ }
+
+h2.logo {
+	font-family: "Hammersmith One";
+  font-weight: normal;
+   font-size: 24px ;
+  color: #123;
+}
+
+u{
+	color: #0000FF;
+}
+
+p{
+	font-size:16px;
+	font-family: monospace;
+}
+
+
+
